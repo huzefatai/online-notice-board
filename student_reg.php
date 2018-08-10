@@ -207,7 +207,7 @@ visibility: visible;
 		<nav>
 		<ul>
 		
-		<li><a href="huzefa.html">Home</a></li>
+		<li><a href="index.html">Home</a></li>
 		<li><a href="#" class="active">Register</a>
 		<ul>
 		<li><a href="student_reg.html">Student</a></li>
